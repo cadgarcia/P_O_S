@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VNPD6AVxckvELAWDJlbJyCFhRIPubnpLjKoVyd/3z+uZ/EEECpC0AJ/6gxpICBv34gLcUD9rdeC/ECwNivEr6w==",
+  "success": true,
+  "projectFilePath": "/Users/usuario/Documents/P_O_S/02.POO_C#/Unidade02/exemplo-biblioteca/exemplo-biblioteca.csproj",
+  "expectedPackageFiles": [
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{042F0E28-E66B-46CA-A9AE-69899140A2D6}|Default">
+  <MonoDevelop.Ide.ItemProperties.exemploweb-mvc PreferredExecutionTarget="/Applications/Opera.app" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="exemploweb-mvc" expanded="True">
+            <Node name="exemploweb-mvc" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

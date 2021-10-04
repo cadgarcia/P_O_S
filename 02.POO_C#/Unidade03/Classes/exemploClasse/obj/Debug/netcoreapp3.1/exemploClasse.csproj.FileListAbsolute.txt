@@ -1,0 +1,12 @@
+/Users/usuario/Documents/P_O_S/02.POO_C#/Unidade03/Classes/exemploClasse/obj/Debug/netcoreapp3.1/exemploClasse.csprojAssemblyReference.cache
+/Users/usuario/Documents/P_O_S/02.POO_C#/Unidade03/Classes/exemploClasse/obj/Debug/netcoreapp3.1/exemploClasse.AssemblyInfoInputs.cache
+/Users/usuario/Documents/P_O_S/02.POO_C#/Unidade03/Classes/exemploClasse/obj/Debug/netcoreapp3.1/exemploClasse.AssemblyInfo.cs
+/Users/usuario/Documents/P_O_S/02.POO_C#/Unidade03/Classes/exemploClasse/obj/Debug/netcoreapp3.1/exemploClasse.csproj.CoreCompileInputs.cache
+/Users/usuario/Documents/P_O_S/02.POO_C#/Unidade03/Classes/exemploClasse/bin/Debug/netcoreapp3.1/exemploClasse.deps.json
+/Users/usuario/Documents/P_O_S/02.POO_C#/Unidade03/Classes/exemploClasse/bin/Debug/netcoreapp3.1/exemploClasse.runtimeconfig.json
+/Users/usuario/Documents/P_O_S/02.POO_C#/Unidade03/Classes/exemploClasse/bin/Debug/netcoreapp3.1/exemploClasse.runtimeconfig.dev.json
+/Users/usuario/Documents/P_O_S/02.POO_C#/Unidade03/Classes/exemploClasse/bin/Debug/netcoreapp3.1/exemploClasse.dll
+/Users/usuario/Documents/P_O_S/02.POO_C#/Unidade03/Classes/exemploClasse/bin/Debug/netcoreapp3.1/exemploClasse.pdb
+/Users/usuario/Documents/P_O_S/02.POO_C#/Unidade03/Classes/exemploClasse/obj/Debug/netcoreapp3.1/exemploClasse.dll
+/Users/usuario/Documents/P_O_S/02.POO_C#/Unidade03/Classes/exemploClasse/obj/Debug/netcoreapp3.1/exemploClasse.pdb
+/Users/usuario/Documents/P_O_S/02.POO_C#/Unidade03/Classes/exemploClasse/obj/Debug/netcoreapp3.1/exemploClasse.genruntimeconfig.cache

@@ -1,0 +1,54 @@
+C#
+.net framework  5.1
+    - bibliotecas básicas
+    - fornece o motor que executará a aplicação
+    - plataforma de desenvolvimento
+    - windows
+    - dois componentes principais:
+        - CLR - common language runtime
+            - runtime da aplicação
+            - independente de linguagem
+            - intere com o FCL
+            - executa o compilado
+            - gerenciamento de memória
+            - controle de exceção
+            - interoperabilidade
+            - manipulação de processamento paralelo e concorrente
+            - reflexão
+            - segurança
+            - serviços de compilação para arquitetura específica
+        - FCL - framework class libray
+            - api - utilitários e bibliotecas
+            - acesso a dados
+            - conectividade a banco de dados
+            - redes, web
+            - criptografia
+            - acesso a serviços do sistema operacional
+            - estrutura de dados
+            - algoritmos diversos
+
+.net core       3.1
+    - multiplataforma (web e console)
+    - possui ferramenta de linha de comando dotnet cli
+
+.net standart
+    - para criação de bibliotecas utilizáveis no .net core e .net framework
+
+usando dotnet Cli (para criar projetos)
+    - criar pasta projeto  "/Users/usuario/Documents/P_O_S/02.POO_C#/Unidade02/"
+    - acessar pasta projeto
+    - dotnet new console / dotnet new classlib / dotnet new web
+    - code .
+    - dotnet run            (para executar)
+    o arquivo .csproj contém informações do projeto tais como:
+        - qual versão do .net está sendo utilizada
+        - quais bibliotecas estão sendo referenciadas
+
+usando sln (para criar soluções)
+    - acessar pasta projeto  "/Users/usuario/Documents/P_O_S/02.POO_C#/Unidade02/"
+    - dotnet new sln 
+    - dotnet sln add exemplo-biblioteca/exemplo-biblioteca.csproj
+    - dotnet sln add exemplo-console/exemplo-console.csproj 
+
+
+

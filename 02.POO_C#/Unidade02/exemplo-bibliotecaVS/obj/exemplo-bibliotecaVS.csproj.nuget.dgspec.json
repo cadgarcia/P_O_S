@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/usuario/Documents/P_O_S/02.POO_C#/Unidade02/exemplo-bibliotecaVS/exemplo-bibliotecaVS.csproj": {}
+  },
+  "projects": {
+    "/Users/usuario/Documents/P_O_S/02.POO_C#/Unidade02/exemplo-bibliotecaVS/exemplo-bibliotecaVS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/usuario/Documents/P_O_S/02.POO_C#/Unidade02/exemplo-bibliotecaVS/exemplo-bibliotecaVS.csproj",
+        "projectName": "exemplo-bibliotecaVS",
+        "projectPath": "/Users/usuario/Documents/P_O_S/02.POO_C#/Unidade02/exemplo-bibliotecaVS/exemplo-bibliotecaVS.csproj",
+        "packagesPath": "/Users/usuario/.nuget/packages/",
+        "outputPath": "/Users/usuario/Documents/P_O_S/02.POO_C#/Unidade02/exemplo-bibliotecaVS/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/usuario/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.413/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

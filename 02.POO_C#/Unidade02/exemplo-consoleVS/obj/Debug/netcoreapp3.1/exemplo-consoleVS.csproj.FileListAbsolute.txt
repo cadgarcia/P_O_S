@@ -1,0 +1,12 @@
+/Users/usuario/Documents/P_O_S/02.POO_C#/Unidade02/exemplo-consoleVS/bin/Debug/netcoreapp3.1/exemplo-consoleVS.deps.json
+/Users/usuario/Documents/P_O_S/02.POO_C#/Unidade02/exemplo-consoleVS/bin/Debug/netcoreapp3.1/exemplo-consoleVS.runtimeconfig.json
+/Users/usuario/Documents/P_O_S/02.POO_C#/Unidade02/exemplo-consoleVS/bin/Debug/netcoreapp3.1/exemplo-consoleVS.runtimeconfig.dev.json
+/Users/usuario/Documents/P_O_S/02.POO_C#/Unidade02/exemplo-consoleVS/bin/Debug/netcoreapp3.1/exemplo-consoleVS.dll
+/Users/usuario/Documents/P_O_S/02.POO_C#/Unidade02/exemplo-consoleVS/bin/Debug/netcoreapp3.1/exemplo-consoleVS.pdb
+/Users/usuario/Documents/P_O_S/02.POO_C#/Unidade02/exemplo-consoleVS/obj/Debug/netcoreapp3.1/exemplo-consoleVS.csprojAssemblyReference.cache
+/Users/usuario/Documents/P_O_S/02.POO_C#/Unidade02/exemplo-consoleVS/obj/Debug/netcoreapp3.1/exemplo-consoleVS.AssemblyInfoInputs.cache
+/Users/usuario/Documents/P_O_S/02.POO_C#/Unidade02/exemplo-consoleVS/obj/Debug/netcoreapp3.1/exemplo-consoleVS.AssemblyInfo.cs
+/Users/usuario/Documents/P_O_S/02.POO_C#/Unidade02/exemplo-consoleVS/obj/Debug/netcoreapp3.1/exemplo-consoleVS.csproj.CoreCompileInputs.cache
+/Users/usuario/Documents/P_O_S/02.POO_C#/Unidade02/exemplo-consoleVS/obj/Debug/netcoreapp3.1/exemplo-consoleVS.dll
+/Users/usuario/Documents/P_O_S/02.POO_C#/Unidade02/exemplo-consoleVS/obj/Debug/netcoreapp3.1/exemplo-consoleVS.pdb
+/Users/usuario/Documents/P_O_S/02.POO_C#/Unidade02/exemplo-consoleVS/obj/Debug/netcoreapp3.1/exemplo-consoleVS.genruntimeconfig.cache
