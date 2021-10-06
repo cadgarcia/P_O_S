@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using exemploClasse.Enumeracoes;
 
 namespace exemploClasse
@@ -15,13 +16,16 @@ namespace exemploClasse
         public const decimal VALOR_EM_COMPRAS_PREMIUM = 5000;
 
         //construtor com parâmetros
-        public Cliente(int codigo, string nome, decimal rendaMensal, string[] emails)
+        public Cliente(int codigo, string nome, decimal rendaMensal, string[] emails, string cpf)
         {
             this.Codigo = codigo;
             this.Nome = nome;
             this.RendaMensal = rendaMensal;
             this.Classificacao = DefinirClassificacao();
             this.Emails = emails;
+            this.Cpf = cpf;
+            this.CpfOk = ValidaCPF.Valida(cpf);
+            Vendas = new List<Venda>();
         }
 
         /*
@@ -35,6 +39,9 @@ namespace exemploClasse
         public ENivelClassificacao Classificacao { get; private set; }
         public decimal RendaMensal { get; set; }
         public string[] Emails { get; set; }
+        public string Cpf { get; set; }
+        public bool CpfOk { get; set; }
+        public List<Venda> Vendas { get; set; }
 
 
 
@@ -73,11 +80,28 @@ namespace exemploClasse
             return listaEmails;
         }
 
+        public void AdicionarVenda(Venda vv)
+        {
+
+            Vendas.Add(vv);
+        }
+
+        public void CalcularVendas() {
+            decimal total = 0;
+            foreach (var item in Vendas)
+            {
+                total += item.Valor;
+            }
+            Console.WriteLine("Total de vendas: {0}", total);
+        }
+
         public void ImprimeCliente() {
             Console.WriteLine("Nome: " + this.Nome.ToString());
             Console.WriteLine("Código: " + this.Codigo.ToString());
             Console.WriteLine("Renda Mensal: " + this.RendaMensal.ToString());
             Console.WriteLine("Tipo de Cliente: " + this.Classificacao.ToString());
+            Console.WriteLine("CPF: " + this.Cpf);
+            Console.WriteLine("CPF ok?: " + this.CpfOk);
             Console.WriteLine("Emails: " + resgatarListaEmails());
             Console.WriteLine();
         }
