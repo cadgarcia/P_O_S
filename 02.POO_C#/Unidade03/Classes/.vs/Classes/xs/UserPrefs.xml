@@ -1,10 +1,11 @@
 ﻿<Properties StartupConfiguration="{64815C88-977B-4077-A9C0-A902E2361E16}|Default">
   <MonoDevelop.Ide.ItemProperties.exemploClasse PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="exemploClasse/Cliente.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="exemploClasse/Program.cs">
     <Files>
-      <File FileName="exemploClasse/Program.cs" Line="15" Column="54" />
-      <File FileName="exemploClasse/Cliente.cs" Line="68" Column="71" />
-      <File FileName="exemploClasse/ENivelClassificacao.cs" Line="2" Column="36" />
+      <File FileName="exemploClasse/Program.cs" Line="26" Column="35" />
+      <File FileName="exemploClasse/Cliente.cs" Line="85" Column="1" />
+      <File FileName="exemploClasse/ValidaCPF.cs" Line="6" Column="34" />
+      <File FileName="exemploClasse/Venda.cs" Line="11" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -12,14 +13,9 @@
           <Node name="Classes" expanded="True">
             <Node name="exemploClasse" expanded="True">
               <Node name="Enumeracoes" expanded="True" />
-              <Node name="Cliente.cs" selected="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
-        </State>
-      </Pad>
-      <Pad Id="ClassPad">
-        <State name="__root__">
-          <Node name="Classes" expanded="True" selected="True" />
         </State>
       </Pad>
       <Pad Id="MonoDevelop.Debugger.WatchPad">
