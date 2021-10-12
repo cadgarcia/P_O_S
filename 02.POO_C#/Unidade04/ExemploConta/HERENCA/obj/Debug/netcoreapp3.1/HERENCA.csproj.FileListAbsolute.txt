@@ -1,0 +1,13 @@
+/Users/usuario/Documents/P_O_S/02.POO_C#/Unidade04/ExemploConta/HERENCA/bin/Debug/netcoreapp3.1/HERENCA.deps.json
+/Users/usuario/Documents/P_O_S/02.POO_C#/Unidade04/ExemploConta/HERENCA/bin/Debug/netcoreapp3.1/HERENCA.runtimeconfig.json
+/Users/usuario/Documents/P_O_S/02.POO_C#/Unidade04/ExemploConta/HERENCA/bin/Debug/netcoreapp3.1/HERENCA.runtimeconfig.dev.json
+/Users/usuario/Documents/P_O_S/02.POO_C#/Unidade04/ExemploConta/HERENCA/bin/Debug/netcoreapp3.1/HERENCA.dll
+/Users/usuario/Documents/P_O_S/02.POO_C#/Unidade04/ExemploConta/HERENCA/bin/Debug/netcoreapp3.1/HERENCA.pdb
+/Users/usuario/Documents/P_O_S/02.POO_C#/Unidade04/ExemploConta/HERENCA/obj/Debug/netcoreapp3.1/HERENCA.csproj.AssemblyReference.cache
+/Users/usuario/Documents/P_O_S/02.POO_C#/Unidade04/ExemploConta/HERENCA/obj/Debug/netcoreapp3.1/HERENCA.GeneratedMSBuildEditorConfig.editorconfig
+/Users/usuario/Documents/P_O_S/02.POO_C#/Unidade04/ExemploConta/HERENCA/obj/Debug/netcoreapp3.1/HERENCA.AssemblyInfoInputs.cache
+/Users/usuario/Documents/P_O_S/02.POO_C#/Unidade04/ExemploConta/HERENCA/obj/Debug/netcoreapp3.1/HERENCA.AssemblyInfo.cs
+/Users/usuario/Documents/P_O_S/02.POO_C#/Unidade04/ExemploConta/HERENCA/obj/Debug/netcoreapp3.1/HERENCA.csproj.CoreCompileInputs.cache
+/Users/usuario/Documents/P_O_S/02.POO_C#/Unidade04/ExemploConta/HERENCA/obj/Debug/netcoreapp3.1/HERENCA.dll
+/Users/usuario/Documents/P_O_S/02.POO_C#/Unidade04/ExemploConta/HERENCA/obj/Debug/netcoreapp3.1/HERENCA.pdb
+/Users/usuario/Documents/P_O_S/02.POO_C#/Unidade04/ExemploConta/HERENCA/obj/Debug/netcoreapp3.1/HERENCA.genruntimeconfig.cache

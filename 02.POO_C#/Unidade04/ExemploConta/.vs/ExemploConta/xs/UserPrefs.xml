@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{0FD047F4-59FC-4A14-8034-54CBBAF4DCEA}|Default">
+  <MonoDevelop.Ide.ItemProperties.HERENCA PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HERENCA/ExibirSaldo.cs">
+    <Files>
+      <File FileName="HERENCA/Program.cs" Line="27" Column="6" />
+      <File FileName="HERENCA/BoletoBancoDoSul.cs" Line="1" Column="1" />
+      <File FileName="HERENCA/GeradorBoleto.cs" Line="1" Column="1" />
+      <File FileName="HERENCA/ExibirSaldo.cs" Line="12" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ExemploConta" expanded="True">
+            <Node name="HERENCA" expanded="True">
+              <Node name="ExibirSaldo.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

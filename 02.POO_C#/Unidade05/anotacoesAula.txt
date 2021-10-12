@@ -1,0 +1,20 @@
+Tratamento de exceção
+    try
+    {
+       // blocos de código que PODEM disparar uma exceção
+    }
+        // podemos ter um catch por tipo de erro se quisermos
+    catch (ArgumentException ex)
+    {
+        // tratamento caso ocorra exceção do tipo ArgumentException (exwmplo)
+    }
+    catch (Exception ex) {
+        // tratamento caso ocorra qualquer outro tipo de exceção
+    }
+    finally {
+        // executado, ocorrendo uma exceção ou não
+    }
+
+
+
+

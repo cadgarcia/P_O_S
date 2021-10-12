@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xofCV+DrXDj7WBOss7xX/WkNhVBoRZygDBxJ3XcWvRjXvqleSWZMlEC0CPhb2TYKMRXkvy87Op9PePMjG2YOaw==",
+  "success": true,
+  "projectFilePath": "/Users/usuario/Documents/P_O_S/02.POO_C#/Unidade04/ExemploConta/HERENCA/HERENCA.csproj",
+  "expectedPackageFiles": [
+    "/Users/usuario/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.18/microsoft.netcore.app.host.osx-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

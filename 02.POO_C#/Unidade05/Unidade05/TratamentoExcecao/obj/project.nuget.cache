@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rhbRHmHNOaIKEYWGJzxEOugsGP0Ze2ea5mlAS9a241vNR+4VzxzqU0RLjsy4f+4qskQZBHv3JxZZ4OzmokMpbQ==",
+  "success": true,
+  "projectFilePath": "/Users/usuario/Documents/P_O_S/02.POO_C#/Unidade05/Unidade05/TratamentoExcecao/TratamentoExcecao.csproj",
+  "expectedPackageFiles": [
+    "/Users/usuario/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.18/microsoft.netcore.app.host.osx-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

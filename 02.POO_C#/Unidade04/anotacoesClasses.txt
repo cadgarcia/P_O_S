@@ -1,0 +1,41 @@
+para uma classe ser herdada, não eh necessário nenhum modificador em especial
+    public class Conta
+        {
+
+para os métodos desta classe serem modificados (override) pelas filhas
+eh necessário colocar o mofificador VIRTUAL 
+    public virtual bool Sacar(decimal valor) {
+        if (Saldo >= valor)
+
+nas propriedades da classe mãe, deve-se colocar protected no lugar de private
+para que as classes filhas consigam manipular as propriedades herdadas
+    public decimal Saldo { get; protected set; }
+
+nas classes que NÁO podem ser herdadas, colocamos o modificador Sealed (selado)
+equivalente ao finally do java:
+    sealed public class ContaCorrente : Conta
+
+interfaces:
+uma interface tem um determinado método
+a classe que implementar esta interface DEVE implementar este método:
+interfaces não são instanciadas
+interfaces não possuem construtor
+interfaces não possoem propriedades e/ou atributos (?)
+    //o método abaixo não especifica retorno, nem argumentos
+        public interface IBoleto
+    {
+        public string GerarCodigoBarras();
+    }
+
+classes e métodos abstratas
+    são classes que não podem ser instanciadas
+    servem para serem herdadas somente
+    a mesma coisa vale para os métodos,
+    que obrigam as classes filhas a reimplementar os mesmos
+    de forma semelhante às interfaces
+    
+//se o parâmetro conta for do tipo ContaCorrente, armazene na variável conta corrente
+    if (conta is ContaCorrente contaCorrente)
+    {
+        var limite = contaCorrente.Limite;
+    }
