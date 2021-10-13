@@ -16,5 +16,37 @@ Tratamento de exceção
     }
 
 
+//programação assíncrona em OUTRAS LINGUAGENS //pseudocódigo
+    void minhaFuncao(){
+        ConsumirServicoExterno().onComplete(minhaFuncaoComplete).onError(minhaFuncaoError);
+        // executar alguma outra tarefa enquanto isto.
+    }
 
+    void minhaFuncaoComplete(){
+        // executa algo após o término da função de processo lento
+    }
 
+    void minhaFuncaoError(){
+        // executa se houver algum erro no proceso lento
+    }
+
+//programação assíncrona em C# - async/await
+        //método assíncrono:
+        public async void Assincrono() {
+            // a variavel fica aguardando (await) pelo retorno de outro metódo
+            var tamanho = await AcessaWebAssinc();
+            Console.WriteLine("Tamanho da página: {0}", tamanho);
+        }
+
+        //retorno que precisa ser aguardado do tipo int (Taks<int>)
+        public async Task<int> AcessaWebAssinc() {
+
+            HttpClient client = new HttpClient();
+
+            Task<string> retorno = client.GetStringAsync("http://msdn.microsoft.com");
+
+            // com o uso se await o runtime sabe que precisa esperar esta tarefa ser concluída
+            string resultado = await retorno;
+
+            return resultado.Length;
+        }

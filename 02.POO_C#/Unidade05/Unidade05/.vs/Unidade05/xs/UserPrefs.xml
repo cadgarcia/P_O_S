@@ -1,4 +1,29 @@
 ﻿<Properties StartupConfiguration="{0223B65F-6FBD-43D1-9C34-6ED61563E1DC}|Default">
-  <MonoDevelop.Ide.ItemProperties.TratamentoExcecao FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.TratamentoExcecao PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TratamentoExcecao/ExemploAsyncAwait.cs">
+    <Files>
+      <File FileName="TratamentoExcecao/Program.cs" Line="23" Column="14" />
+      <File FileName="TratamentoExcecao/ExemploAsyncAwait.cs" Line="17" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Unidade05" expanded="True">
+            <Node name="TratamentoExcecao" expanded="True">
+              <Node name="ExemploAsyncAwait.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
